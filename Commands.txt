@@ -1,0 +1,4 @@
+
+Backend> dotnet new webapi
+Backend> dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+Backend> dotnet add package Microsoft.EntityFrameworkCore.Tools

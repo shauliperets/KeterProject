@@ -1,0 +1,1000 @@
+  988  ssh -i ~/.ssh/movie_maker/id_ed25519 shauliperets@35.232.111.233
+  989  cat /home/shaul/.ssh/id_ed25519.pub
+  990  cat /home/shaul/.ssh/movie_maker/id_ed25519.pub 
+  991  cd frontend/
+  992  npm start
+  993  npm start
+  994  cd backend/
+  995  npm start
+  996  history > history.txt
+  997  npm install cors
+  998  npm start
+  999  nmp start
+ 1000  npm start
+ 1001  clear
+ 1002  ssh-add ~/.ssh/id_ed25519.pub
+ 1003  ssh shauliperets02@34.125.2.54
+ 1004  ssh -i ~/.ssh/id_ed25519 shauliperets02@34.125.2.54
+ 1005  cd /home/shaul/.ssh/
+ 1006  ls
+ 1007  mv movie_maker shauliperets
+ 1008  ls
+ 1009  cs shauliperets/
+ 1010  cd shauliperets/
+ 1011  ks
+ 1012  ls
+ 1013  ssh -i ~/.ssh/shauliperets/id_ed25519 shauliperets@35.232.111.233
+ 1014  ssh -i ~/.ssh/shauliperets/id_ed25519 shauliperets@34.29.9.231
+ 1015  npm start
+ 1016  npm install bcrypt
+ 1017  npm start
+ 1018  npm start
+ 1019  npm run dev
+ 1020  cd ./Workspace/Practicum/react-around-api-full
+ 1021  git add --ll
+ 1022  git add --all
+ 1023  git commit -m "Bug: In login page. Not loggin"
+ 1024  git push
+ 1025  cd ..
+ 1026  git add --all
+ 1027  git commit -m "Fix: Login works"
+ 1028  git push
+ 1029  npm start
+ 1030  npm dev
+ 1031  npm run dev
+ 1032  npm start
+ 1033  npm run dev
+ 1034  cd ./Workspace/Practicum/react-around-api-full
+ 1035  git add --all
+ 1036  git commit -m "Add: Add card"
+ 1037  git push
+ 1038  git add --all
+ 1039  git commit -m "Cleanup"
+ 1040  git push
+ 1041  npm run dev
+ 1042  npm start
+ 1043  cd ..
+ 1044  git add --all
+ 1045  git commit -m "Need to be check aginst the check list"
+ 1046  git push
+ 1047  npm start
+ 1048  cd ..
+ 1049  git add --all
+ 1050  git commit -m "Adding: new slide"
+ 1051  git push
+ 1052  cd ClientApp/
+ 1053  ng serve
+ 1054  cd Frontend/
+ 1055  ng serve
+ 1056  cd Backend/
+ 1057  dotnet run
+ 1058  dotnet run program.cs 
+ 1059  mcs program.cs
+ 1060  program.exe
+ 1061  prols
+ 1062  ls
+ 1063  ./program.exe 
+ 1064  mcs program.cs
+ 1065  ./program.exe 
+ 1066  mcs program.cs
+ 1067  ./program.exe 
+ 1068  mcs program.cs
+ 1069  mcs Program.cs
+ 1070  mcs *.cs
+ 1071  ./Product.exe 
+ 1072  mcs *.cs
+ 1073  ./Product.exe 
+ 1074  mcs *.cs
+ 1075  ./DataProcess.exe 
+ 1076  mcs *.cs
+ 1077  ./DataProcess.exe 
+ 1078  mcs *.cs
+ 1079  ./DataProcess.exe 
+ 1080  mcs *.cs
+ 1081  ./DataProcess.exe 
+ 1082  mcs *.cs
+ 1083  clear
+ 1084  mcs *.cs
+ 1085  ./DataProcess.exe 
+ 1086  mcs *.cs
+ 1087  ./DataProcess.exe 
+ 1088  mcs *.cs
+ 1089  ./Product.exe 
+ 1090  mcs *.cs
+ 1091  ./Product.exe 
+ 1092  mcs *.cs
+ 1093  ./Product.exe 
+ 1094  mcs *.cs
+ 1095  ./Product.exe 
+ 1096  mcs *.cs
+ 1097  dotnet build
+ 1098  cd Backend/
+ 1099  dotnet build
+ 1100  Backend> dotnet ef migrations add AddProduct
+ 1101  dotnet ef migrations add AddProduct
+ 1102  sudo dotnet ef migrations add AddProduct
+ 1103  sudo dotnet ef migrations add "AddProduct"
+ 1104  cd ..
+ 1105  history > history
+ 1106  dotnet ef migrations add AddProduct
+ 1107  cd Backend/
+ 1108  dotnet ef migrations add AddProduct
+ 1109  dotnet ef database update
+ 1110  dotnet run
+ 1111  dotnet build
+ 1112  dotnet run
+ 1113  dotnet build
+ 1114  dotnet run
+ 1115  dotnet ef migrations add AddProduct
+ 1116  dotnet build
+ 1117  dotnet ef migrations add AddProduct
+ 1118  dotnet build
+ 1119  dotnet ef migrations add AddProduct
+ 1120  dotnet ef database update
+ 1121  dornet run
+ 1122  dotnet run
+ 1123  cd Frontend/
+ 1124  ng serve
+ 1125  cd Backend/
+ 1126  dotnet run
+ 1127  cd Frontend/
+ 1128  ng serve
+ 1129  dotnet run
+ 1130  cd ./Workspace/Projects/
+ 1131  ls
+ 1132  cd ShoppingCart
+ 1133  git add --all
+ 1134  git status
+ 1135  git
+ 1136  git commit -m "Old version - With managment"
+ 1137  git push
+ 1138  git clone https://github.com/shauliperets/ShoppingCart.git
+ 1139  ls
+ 1140  git add --all
+ 1141  git commit -m "Old version - With managment"
+ 1142  git status
+ 1143  git add --all
+ 1144  git status
+ 1145  git log
+ 1146  git push
+ 1147  cd ..
+ 1148  ls
+ 1149  cd ShoppingCart
+ 1150  git add --all
+ 1151  git status
+ 1152  git commit -m "Old version - With managment"
+ 1153  git push
+ 1154  git add --all
+ 1155  git commit -m "New version: Display cards from backend"
+ 1156  git push
+ 1157  cd auth-demo-starter/
+ 1158  npm install
+ 1159  ng serve
+ 1160  ls
+ 1161  cd auth-demo/
+ 1162  ls
+ 1163  npm install
+ 1164  ng serve
+ 1165  ng serve --port 4300
+ 1166  npm install angular2-jwt
+ 1167  ng serve --port 4300
+ 1168  ng serve --port 4400
+ 1169  cd Frontend/
+ 1170  ng i c cards
+ 1171  ng g c cards
+ 1172  cd Frontend/
+ 1173  ng serve
+ 1174  cd Backend/
+ 1175  dotnet run
+ 1176  ng serve
+ 1177  cd Workspace/
+ 1178  cdls
+ 1179  ls
+ 1180  cd C-Sharp/
+ 1181  ls
+ 1182  dotnet --list
+ 1183  dotnet add --list
+ 1184  dotnet new --list
+ 1185  dotnet new angular
+ 1186  ls
+ 1187  cd Angular/
+ 1188  dotnet new angular
+ 1189  npm install
+ 1190  ng serve
+ 1191  cd API/
+ 1192  ls
+ 1193  dotnet add package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+ 1194  dotnet build
+ 1195  dotnet run
+ 1196  cd API/
+ 1197  dotnet run
+ 1198  cd client/
+ 1199  ng serve
+ 1200  npm install
+ 1201  ng serve
+ 1202  cd Frontend/
+ 1203  ng g c login
+ 1204  dotnet build
+ 1205  dotnet run
+ 1206  dotnet build
+ 1207  dotnet run
+ 1208  dotnet build
+ 1209  dotnet run
+ 1210  dotnet build
+ 1211  dotnet run
+ 1212  git clone https://github.com/RolandGuijt/ps-globomantics-webapi-react.git
+ 1213  dotnet run
+ 1214  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+ 1215  dotnet add package Microsoft.EntityFrameworkCore.Tools
+ 1216  ls
+ 1217  dotnet add package Microsoft.EntityFrameworkCore.Tools
+ 1218  cd ..
+ 1219  dotnet new webapi -o Api
+ 1220  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+ 1221  dotnet add package Microsoft.EntityFrameworkCore.Tools
+ 1222  histort > history
+ 1223  history > history
+ 1224  dotnet build
+ 1225  dotnet run
+ 1226  dotnet new webapi -o WebApi --framework "net6.0"
+ 1227  dotnet new webapi -h
+ 1228  ls
+ 1229  mkdir -p $HOME/dotnet && tar zxf dotnet-sdk-6.0.406-linux-x64.tar.gz -C $HOME/dotnet
+ 1230  cd Downloads/
+ 1231  mkdir -p $HOME/dotnet && tar zxf dotnet-sdk-6.0.406-linux-x64.tar.gz -C $HOME/dotnet
+ 1232  export DOTNET_ROOT=$HOME/dotnet
+ 1233  export PATH=$PATH:$HOME/dotnet
+ 1234  dotnet new webapi -h
+ 1235  dotnet new webapi -o WebApi --framework "net6.0"
+ 1236  dotnet
+ 1237  dotnet --list-sdks
+ 1238  dotnet --list-runtimes
+ 1239  dotnet --info
+ 1240  dotnet --varsion
+ 1241  dotnet --version
+ 1242  dotnet build
+ 1243  history > history
+ 1244  dotnet ef migrations add jwt
+ 1245  dotnet ef database update
+ 1246  dotnet ef migrations add jwt
+ 1247  dotnet ef database update
+ 1248  dotnet ef migrations add jwt
+ 1249  dotnet ef database update
+ 1250  dotnet ef -h
+ 1251  dotnet ef migrations remove
+ 1252  dotnet ef migrations add jwt
+ 1253  dotnet ef database update
+ 1254  ef migrations remove
+ 1255  dotnet ef migrations remove
+ 1256  dotnet ef migrations add jwt
+ 1257  dotnet ef database update
+ 1258  dotnet build
+ 1259  dotnet ef database update
+ 1260  dotnet ef migrations add jwt
+ 1261  dotnet ef database update
+ 1262  dotnet ef migrations add jwt
+ 1263  dotnet ef database update
+ 1264  dotnet ef migrations add jwt
+ 1265  dotnet ef database update
+ 1266  dotnet ef migrations add Token
+ 1267  dotnet ef migrations add jwt
+ 1268  dotnet ef database update
+ 1269  dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+ 1270  dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+ 1271  dotnet add package Microsoft.AspNetCore.Identity
+ 1272  dotnet build
+ 1273  dotnet run
+ 1274  dotnet watch
+ 1275  dotnet ef migrations add CreateLogs
+ 1276  cd Backend/
+ 1277  dotnet ef migrations add CreateLogs
+ 1278  sudo dotnet ef migrations add CreateLogs
+ 1279  dotnet ef migrations add CreateLogs
+ 1280  dotnet build
+ 1281  dotnet ef migrations add CreateLogs
+ 1282  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+ 1283  cd Backend/
+ 1284  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+ 1285  history > history.txt
+ 1286  dotnet ef migration add CreateDatabase
+ 1287  dotnet ef migrations add CreateDatabase
+ 1288  dotnet add package Microsoft.EntityFrameworkCore.Tools
+ 1289  dotnet ef migrations add CreateDatabase
+ 1290  dotnet ef database update
+ 1291  dotnet ef migrations add AddUser
+ 1292  dotnet ef migrations add CreateDatabase
+ 1293  dotnet ef database update
+ 1294  dotnet ef migrations add SeedAddUser
+ 1295  dotnet ef update database
+ 1296  dotnet ef database update
+ 1297  dotnet ef migrations add AddLogs
+ 1298  dotnet ef database update
+ 1299  dotnet watch
+ 1300  cd Backend/
+ 1301  dotnet watch
+ 1302  cd Backend/
+ 1303  dotnet watch
+ 1304  dotnet build
+ 1305  dotnet watch
+ 1306  dotnet watch
+ 1307  git clone https://github.com/shauliperets/ShoppingCart.git
+ 1308  dotnet watch
+ 1309  git add --all
+ 1310  git commit -m "Cart change font size by text size"
+ 1311  git push
+ 1312  git add --all
+ 1313  git commit -m "Cart save to localStorage"
+ 1314  git push
+ 1315  ng serve
+ 1316  dotnet watch
+ 1317  git add --all
+ 1318  git commit -m "Reset shopping cart"
+ 1319  git push
+ 1320  git add --all
+ 1321  git commit -m "Cart not dispaly 0 items anymore"
+ 1322  git push
+ 1323  git add --all
+ 1324  git commit -m "Shopping cart works without bugs"
+ 1325  git push
+ 1326  ng g c AddProduct
+ 1327  cd Frontend/
+ 1328  ng g c AddProduct
+ 1329  cd ..
+ 1330  ng serve
+ 1331  history > history
+ 1332  cd MovieMaker
+ 1333  cd api/
+ 1334  npm start
+ 1335  npm run build
+ 1336  cd ..
+ 1337  cd client/
+ 1338  npm run start
+ 1339  cd Backend/
+ 1340  dotnet watch
+ 1341  cd Frontend/
+ 1342  ng serve
+ 1343  npm install
+ 1344  ng serve
+ 1345  cd Backend/
+ 1346  dotnet watch
+ 1347  ng serve
+ 1348  dotnet build
+ 1349  dotnet watch
+ 1350  cd Frontend/
+ 1351  ng serve
+ 1352  clean
+ 1353  clear
+ 1354  dotnet rebuild
+ 1355  dotnet --help
+ 1356  dotnet restore
+ 1357  dotnet clean
+ 1358  dotnet build
+ 1359  dotnet watch
+ 1360  cd Frontend/
+ 1361  ng serve
+ 1362  cd Backend/
+ 1363  dotnet watch
+ 1364  ng serve
+ 1365  /home/shaul/Desktop/temp2/
+ 1366  ls
+ 1367  cd /home/shaul/Desktop/temp2/
+ 1368  ls
+ 1369  git add --all
+ 1370  git commit -m "Upload file to server works"
+ 1371  git push
+ 1372  ng serve
+ 1373  dotnet watch
+ 1374  ng serve
+ 1375  cd Frontend/
+ 1376  ng serve
+ 1377  cd Backend/
+ 1378  dotnet watch
+ 1379  cd Frontend/
+ 1380  ng serve
+ 1381  cd Backend/
+ 1382  dotnet watch
+ 1383  cd /home/shaul/Workspace/Projects/ShoppingCartProject/ShoppingCart/Frontend/src/assets/images/temp/
+ 1384  git add --all
+ 1385  git commit -m "File upload work without refresh"
+ 1386  git push
+ 1387  ng serve
+ 1388  dotnet watch
+ 1389  ng serve
+ 1390  dotnet watch
+ 1391  git add --all
+ 1392  git commit -m "Save: at adding add-product"
+ 1393  git push
+ 1394  ng serve
+ 1395  dotnet watch
+ 1396  cd Workspace/
+ 1397  ls
+ 1398  cd ..
+ 1399  ls
+ 1400  cd Documents/Studies/
+ 1401  ls
+ 1402  cd Udemy/Azure/
+ 1403  ls
+ 1404  curl -sL https://aka.ms/InstallAzureCLIDeb
+ 1405  ls
+ 1406  curl -sL https://aka.ms/InstallAzureCLIDeb > azureInstallScript
+ 1407  ls
+ 1408  curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+ 1409  az
+ 1410  login
+ 1411  sudo login
+ 1412  dotnet build
+ 1413  cd cart/
+ 1414  dotnet build
+ 1415  ip-congig
+ 1416  ip-config
+ 1417  config
+ 1418  iconfig
+ 1419  dotnet --list-sdks
+ 1420  dotnet --list-runtimes
+ 1421  wget https://dot.net/v1/dotnet-install.sh -O dotnet-install.sh
+ 1422  wget https://dot.net/v1/dotnet-install.sh -O dotnet-install.sh --no-check-certificate
+ 1423  chmod +x ./dotnet-install.sh
+ 1424  ./dotnet-install.sh --version latest --runtime aspnetcore
+ 1425  sudo apt install 7.0
+ 1426  sudo apt install aspnetcore-runtime-7.0
+ 1427  sudo apt update
+ 1428  sudo apt upgrade
+ 1429  cd Frontend/
+ 1430  ng serve
+ 1431  ls
+ 1432  cd Backend/
+ 1433  dotnet build
+ 1434  dotnet run
+ 1435  ./dotnet-install.sh --version latest --runtime aspnetcore
+ 1436  dotnet run
+ 1437  sudo apt update
+ 1438  sudo apt upgrade -y
+ 1439  sudo apt autoremove
+ 1440  sudo apt upgrade -y
+ 1441  sudo apt install -y wget apt-transport-https software-properties-common
+ 1442  wget -q https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+ 1443  sudo dpkg -i packages-microsoft-prod.deb
+ 1444  sudo apt update
+ 1445  sudo apt install -y dotnet-sdk-7.0
+ 1446  sudo apt update
+ 1447  sudo apt install -y aspnetcore-runtime-6.0
+ 1448  dotnet --version
+ 1449  dotnet --list-runtimes
+ 1450  sudo apt-get update &&   sudo apt-get install -y dotnet-sdk-8.0
+ 1451  npm start
+ 1452  cd ..
+ 1453  cd ShoppingCartProject/
+ 1454  ls
+ 1455  cd Bq
+ 1456  cd Backend/
+ 1457  dotnet build
+ 1458  sudo apt install aspnetcore-runtime-7.0
+ 1459  sudo apt install aspnetcore-runtime-8.0
+ 1460  sudo apt-get install -y dotnet-runtime-7.0
+ 1461  sudo apt-get install -y dotnet-runtime-8.0
+ 1462  sudo apt-get install -y dotnet-runtime-6.0
+ 1463  ls
+ 1464  cd Workspace/
+ 1465  ls
+ 1466  cd Projects/ShoppingCartProject/ShoppingCart
+ 1467  ks
+ 1468  ls
+ 1469  cd Backend/
+ 1470  dotnet run
+ 1471  sudo apt-get install -y dotnet-runtime-7.0.16
+ 1472  sudo apt update && sudo apt -y install dotnet7
+ 1473  dotnet run
+ 1474  cd Projects/ShoppingCartProject/ShoppingCart/Backup/
+ 1475  cd Projects/ShoppingCartProject/ShoppingCart/
+ 1476  ls
+ 1477  cd Workspace/Projects/ShoppingCartProject/ShoppingCart/Backend/
+ 1478  dotnet run
+ 1479  wget https://dot.net/v1/dotnet-install.sh -O dotnet-install.sh
+ 1480  chmod +x ./dotnet-install.sh
+ 1481  ./dotnet-install.sh --version latest
+ 1482  ./dotnet-install.sh --version latest --runtime aspnetcore
+ 1483  cd Workspace/Projects/ShoppingCartProject/ShoppingCart/Backend/
+ 1484  dotnet run
+ 1485  sudo apt-get update &&   sudo apt-get install -y dotnet-sdk-8.0
+ 1486  dotnet run
+ 1487  cd..
+ 1488  cd ..
+ 1489  ls
+ 1490  cd ..
+ 1491  ls
+ 1492  cd ..
+ 1493  ls
+ 1494  cd Projects/
+ 1495  ls
+ 1496  Om
+ 1497  cd Projects/
+ 1498  ךד
+ 1499  clear
+ 1500  ls
+ 1501  cd Workspace/Projects/ShoppingCartProject/ShoppingCart/Backend/
+ 1502  cd /Workspace/Projects/ShoppingCartProject/ShoppingCart/Backend/
+ 1503  cd ~
+ 1504  ls
+ 1505  cd /home
+ 1506  cd /home/Workspace/Projects/ShoppingCartProject/ShoppingCart/Backend/
+ 1507  cd ~/Workspace/Projects/ShoppingCartProject/ShoppingCart/Backend/
+ 1508  dotnet build
+ 1509  dotnet run
+ 1510  ./dotnet-install.sh --version latest --runtime aspnetcore
+ 1511  dotnet-aspnet8
+ 1512  cd /usr/share/dotnet
+ 1513  ls
+ 1514  dotnet new webapi -o Backend
+ 1515  dotnet run
+ 1516  cd Backend/
+ 1517  dotnet run
+ 1518  dotnet build
+ 1519  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+ 1520  dotnet build
+ 1521  dotnet watch
+ 1522  cd /home/shaul/Workspace/Projects/ShoppingCartProject/ShoppingCart
+ 1523  ls
+ 1524  cd /home/shaul/Workspace/Projects/ShoppingCartProject/ShoppingCart/Backend/
+ 1525  dotnet build
+ 1526  dotnet run
+ 1527  cd Backend/
+ 1528  dotnet watch
+ 1529  cd Frontend/
+ 1530  ng serve
+ 1531  sqlclient
+ 1532  sqlcmd
+ 1533  npm g c Logs
+ 1534  npm install -g npm
+ 1535  cd Backend/
+ 1536  dotnet watch
+ 1537  sqlcmd localhost
+ 1538  sqlcmd -s localhost
+ 1539  sqlcmd -s localhost\default
+ 1540  sqlcmd -s localhost\default -e
+ 1541  sqlcmd -s localhost\ShoppingCart -e
+ 1542  sqlcmd -s localhost\ShoppingCartDB -e
+ 1543  sqlcmd -S localhost\ShoppingCartDB -E
+ 1544  sqlcmd -S localhost\ShoppingCartCFDB -E
+ 1545  sqlcmd - localhost\ShoppingCartCFDB
+ 1546  sqlcmd -S .
+ 1547  sqlcmd -S .\ShoppingCartDB
+ 1548  sqlcmd -t
+ 1549  sqlcmd -?
+ 1550  sqlcmd -S localhost
+ 1551  sqlcmd -S ./localhost
+ 1552  sqlcmd -S .\localhost
+ 1553  sqlcmd -S localhost -U sa
+ 1554  sqlcmd -S localhost -U SA -P 'Ng9dozv0'
+ 1555  sqlcmd -S localhost\ShoppingCartCFDB -U SA -P 'Ng9dozv0'
+ 1556  sqlcmd -S localhost/ShoppingCartCFDB -U SA -P 'Ng9dozv0'
+ 1557  sqlcmd -S localhost/master-U SA -P 'Ng9dozv0'
+ 1558  sqlcmd -S localhost/master -U SA -P 'Ng9dozv0'
+ 1559  sqlcmd -S localhost\master -U SA -P 'Ng9dozv0'
+ 1560  sqlcmd -S localhost -d ShoppingCartCFDB -U SA -P 'Ng9dozv0'
+ 1561  npm install -g npm
+ 1562  sudo npm install -g npm
+ 1563  npm g c Logs
+ 1564  cd Fr
+ 1565  cd Frontend/
+ 1566  ng serve
+ 1567  cd Frontend/
+ 1568  ng serve
+ 1569  dotnet watch
+ 1570  sqlcmd -S localhost -d ShoppingCartCFDB -U SA -P 'Ng9dozv0'
+ 1571  ng g Logs
+ 1572  cd Frontend/
+ 1573  ng g Logs
+ 1574  ng g c Logs
+ 1575  ng serve
+ 1576  sqlcmd -S localhost -d ShoppingCartCFDB -U SA -P 'Ng9dozv0'
+ 1577  dotnet watch
+ 1578  ng serve
+ 1579  sqlcmd -S localhost -d ShoppingCartCFDB -U SA -P 'Ng9dozv0'
+ 1580  npm start
+ 1581  cd MovieMaker
+ 1582  ls
+ 1583  cd client/
+ 1584  npm start
+ 1585  npm -v
+ 1586  npm -version
+ 1587  npm --version
+ 1588  sudo npm install npm -g 
+ 1589  npm install
+ 1590  cd ..
+ 1591  ls
+ 1592  cd ..
+ 1593  ls
+ 1594  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1595  mkdir MovieMaker
+ 1596  cd MovieMaker
+ 1597  npx create-react-app Frontend
+ 1598  npx create-react-app Frontend
+ 1599  nodejs --version
+ 1600  node --version
+ 1601  sudo apt-get install nodejs
+ 1602  sudo apt install npm
+ 1603  sudo apt-get clean
+ 1604  sudo apt-get -f install
+ 1605  sudo apt-get install -f npm
+ 1606  sudo apt-get install aptitude
+ 1607  sudo aptitude install npm
+ 1608  sudo apt-get update
+ 1609  sudo apt-get clean
+ 1610  sudo apt-get autoremove
+ 1611  sudo apt --fix-broken install
+ 1612  sudo apt-get update && sudo apt-get upgrade
+ 1613  sudo dpkg --configure -a
+ 1614  sudo apt-get install -f
+ 1615  sudo apt-get install npm
+ 1616  sudo apt-get remove nodejs
+ 1617  sudo apt-get remove npm
+ 1618  sudo apt-get install -y nodejs
+ 1619  apt-get update --fix-missing
+ 1620  sudo apt-get update --fix-missing
+ 1621  npm -v
+ 1622  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1623  sudo apt install ca-certificates
+ 1624  apt update
+ 1625  sudo apt update
+ 1626  apt list --upgradable 
+ 1627  apt list --upgradable -A
+ 1628  apt list --upgradable -a
+ 1629  sudo apt update
+ 1630  sudo apt install curl
+ 1631  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+ 1632  sudo pro attach C19pQ8STuXp45L4zCrdAEWRQGwN5B
+ 1633  sudo apt update
+ 1634  sudo apt upgrade
+ 1635  sudo apt-get install -y nodejs
+ 1636  npm -v
+ 1637  ls
+ 1638  ./install.script
+ 1639  chmod 777 install.script 
+ 1640  ./install.script
+ 1641  ls
+ 1642  npx create-react-app Frontend
+ 1643  npx create-react-app my-app
+ 1644  npm cache clean
+ 1645  npm cache clean --force
+ 1646  ls
+ 1647  npx create-react-app my-app
+ 1648  npm cache clean --force
+ 1649  npm cache verify
+ 1650  history > history
+ 1651  sudo apt-get remove nodejs
+ 1652  sudo apt-get remove npm
+ 1653  sudo apt-get install -y nodejs@19.9.0
+ 1654  sudo apt-get install -y nodejs@19.9
+ 1655  npx create-react-app my-app
+ 1656  npm start
+ 1657  ls
+ 1658  cd my-app/
+ 1659  npm start
+ 1660  cd client/
+ 1661  npm start
+ 1662  ld
+ 1663  ls
+ 1664  cd ..
+ 1665  cd /home/shaul/Workspace/Projects/MovieMakerProject/MoveMaker/
+ 1666  ls
+ 1667  ls -l
+ 1668  cd ..
+ 1669  ls
+ 1670  cd MoveMaker
+ 1671  ls
+ 1672  cd MovieMaker
+ 1673  ls
+ 1674  npm start
+ 1675  npm install
+ 1676  cd client/
+ 1677  npm start
+ 1678  npm install
+ 1679  npm start
+ 1680  npm install
+ 1681  npm audit fix --force
+ 1682  nmp start
+ 1683  nmpm start
+ 1684  npm start
+ 1685  cd Interceptor/
+ 1686  cd ..
+ 1687  cd /home/shaul/Workspace/Angular/
+ 1688  ng new Interceptor
+ 1689  cd Interceptor/
+ 1690  ng serve
+ 1691  cd client/
+ 1692  ng serve
+ 1693  ls
+ 1694  ng -v
+ 1695  ng serve
+ 1696  cd Frontend/
+ 1697  ng serve
+ 1698  cd ..
+ 1699  ng new test
+ 1700  cd test/
+ 1701  ng serve
+ 1702  apt-get update
+ 1703  sudo apt-get update
+ 1704  ng serve
+ 1705  node -v
+ 1706  nmp -v
+ 1707  npm -v
+ 1708  export NODE_OPTIONS=--openssl-legacy-provider
+ 1709  ng serve
+ 1710  cd Frontend/
+ 1711  ng serve
+ 1712  export NODE_OPTIONS=--openssl-legacy-provider
+ 1713  ng serve
+ 1714  cd Frontend/
+ 1715  ng serve
+ 1716  npm start
+ 1717  ng generate --help
+ 1718  ng generate interceptor
+ 1719  ng lint
+ 1720  sudo npm install -g angular-cli-ghpages
+ 1721  ng build --prod
+ 1722  cd Frontend/
+ 1723  ng build --prod
+ 1724  export NODE_OPTIONS=--openssl-legacy-provider
+ 1725  ng build --prod
+ 1726  ng build --prod --base-herf
+ 1727  ng build --prod --base-herf="https://shauliperets.github.io/ShoppingCart"
+ 1728  ng build --prod --base-herf="https://shauliperets.github.io/ShoppingCart/"
+ 1729  cd /home/shaul/Workspace/
+ 1730  ls
+ 1731  cd Projects/ShoppingCartProject/
+ 1732  ls
+ 1733  mkdir ShoppingCartPages
+ 1734  cd ShoppingCartPages/
+ 1735  remote add origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1736  git remote add origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1737  git init
+ 1738  branch -M main
+ 1739  git branch -M main
+ 1740  git remote add origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1741  git push -u origin main
+ 1742  ls
+ 1743  git push -u origin master
+ 1744  git push
+ 1745  git push --set-upstream origin main
+ 1746  git push --set-upstream -u origin main
+ 1747  git Add --all
+ 1748  git add --all
+ 1749  git status
+ 1750  git commit "Initial"
+ 1751  git -m commit "Initial"
+ 1752  git commit -m "Initial"
+ 1753  git branch -M main
+ 1754  git remote add origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1755  git push -u origin main
+ 1756  git history>history
+ 1757  history>history
+ 1758  git push -u origin main
+ 1759  git config --global user.name "shauliperets"
+ 1760  git config -l
+ 1761  git push -u origin main
+ 1762  git remote add origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1763  git reset
+ 1764  git config -l
+ 1765  git clone origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1766  mkdir ShoppingCartPages
+ 1767  clear
+ 1768  git init
+ 1769  git config -l
+ 1770  mkdir ShoppingCartPages
+ 1771  ls
+ 1772  cd ..
+ 1773  cd /home/shaul/Workspace/Projects/ShoppingCartProject/
+ 1774  mkdir ShoppingCartPages
+ 1775  git config -l
+ 1776  git clone origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1777  git remote add origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1778  git status
+ 1779  git init
+ 1780  git remote add origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1781  git -m commit "Initial"
+ 1782  git commit -m "Initial"
+ 1783  git branch -M main
+ 1784  git push -u origin main
+ 1785  git push
+ 1786  git push --set-upstream
+ 1787  git push --set-upstream -u origin main
+ 1788  git push --set-upstream -u origin master
+ 1789  git status
+ 1790  git add --all
+ 1791  cd ShoppingCartPages/
+ 1792  git status
+ 1793  git init
+ 1794  git commit -m "Inital"
+ 1795  git add --all
+ 1796  git commit -m "Inital"
+ 1797  git branch -M main
+ 1798  git remote add origin https://github.com/shauliperets/ShoppingCartPages.git
+ 1799  git push -u origin main
+ 1800  git -m commit "Change initial folder"
+ 1801  git add --all
+ 1802  git commit -m "Change initial folder"
+ 1803  git push
+ 1804  cd Backend/
+ 1805  dotnet watch
+ 1806  ls
+ 1807  cd /home/shaul/Workspace/Projects/
+ 1808  ls
+ 1809  cd /home/shaul/Workspace/Projects/ShoppingCartProject/
+ 1810  ls
+ 1811  cd /home/shaul/Workspace/Projects/ShoppingCartProject/ShoppingCartPages/
+ 1812  ls
+ 1813  git push
+ 1814  git push --set-upstream origin main
+ 1815  ngh
+ 1816  sudo apt-get update &&   sudo apt-get install -y dotnet-sdk-8.0
+ 1817  dotnet build
+ 1818  npm start
+ 1819  CD Backend/
+ 1820  ls
+ 1821  cd Backend/
+ 1822  dotnet watch
+ 1823  sudo apt-get update &&   sudo apt-get install -y dotnet-sdk-8.0
+ 1824  dotnet watch
+ 1825  dotnet --list-runtimes
+ 1826  dotnet --list-sdks
+ 1827  sudo apt-get update &&   sudo apt-get install -y aspnetcore-runtime-8.0
+ 1828  dotnet --list-runtimes
+ 1829  dotnet --list-sdks
+ 1830  /home/shaul/Workspace/Projects/ShoppingCartProject/ShoppingCart
+ 1831  ls
+ 1832  cd ..
+ 1833  ls
+ 1834  cd /home/shaul/Workspace/Projects/ShoppingCartProject/ShoppingCart
+ 1835  cd ..
+ 1836  ls
+ 1837  cd ShoppingDotnet8/
+ 1838  cd Backend/
+ 1839  dotnet watch
+ 1840  dotnet --list-runtimes
+ 1841  dotnet --list
+ 1842  dotnet watch
+ 1843  dotnet --list
+ 1844  dotnet publish
+ 1845  dotnet watch
+ 1846  cd /home/shaul/Workspace/Projects/ShoppingCartProject/ShoppingDotnet8
+ 1847  cd Backend/
+ 1848  dotnet watch
+ 1849  cd ..
+ 1850  ls
+ 1851  cd ..
+ 1852  ls
+ 1853  cd test/
+ 1854  dotnet new --list
+ 1855  sudo apt-get install -y dotnet-runtime-8.0
+ 1856  dotnet new --list
+ 1857  cd ..
+ 1858  cd ShoppingDotnet8/
+ 1859  cd Backend/
+ 1860  clear
+ 1861  dotnet watch
+ 1862  clear
+ 1863  dotnet watch
+ 1864  clear
+ 1865  dotnet watch
+ 1866  clear
+ 1867  dotnet watch
+ 1868  clear
+ 1869  dotnet publish
+ 1870  clear
+ 1871  dotnet watch
+ 1872  cd Frontend/
+ 1873  npm start
+ 1874  clear
+ 1875  dotnet watch
+ 1876  npm start
+ 1877  ךד
+ 1878  ls
+ 1879  cd client/
+ 1880  ls
+ 1881  npm start
+ 1882  ng new ExmCustomerApp --no-standalone
+ 1883  ng new ExmCustomer-app --no-standalone
+ 1884  ng new customer-app --no-standalone
+ 1885  ng new ExActivatedRoute
+ 1886  ng g m appRouting --flat
+ 1887  cd ExActivatedRoute/
+ 1888  ng g m appRouting --flat
+ 1889  ls
+ 1890  npm cache clean --force
+ 1891  npm install
+ 1892  npm audit fix
+ 1893  npm audit fix --force
+ 1894  npm start
+ 1895  ng update
+ 1896  ng update --help
+ 1897  ng --v
+ 1898  ng --version
+ 1899  ng --verbose
+ 1900  ng --verbose true
+ 1901  ng --verbose 1
+ 1902  ng --list
+ 1903  node -v
+ 1904  ng update @angular/core@13 @angular/cli@13 
+ 1905  git --help
+ 1906  git reset
+ 1907  ng update @angular/core@13 @angular/cli@13 
+ 1908  git status
+ 1909  git add --all
+ 1910  git commit -m "Save"
+ 1911  ng update @angular/core@13 @angular/cli@13 
+ 1912  ng update @angular/core@13 @angular/cli@13 --force
+ 1913  cd ..
+ 1914  git status
+ 1915  git add --all
+ 1916  git commit -m "Add float menu"
+ 1917  git push
+ 1918  npm start
+ 1919  dotnet --list
+ 1920  dotnet new --list
+ 1921  dotnet new --list -h
+ 1922  dotnet new -h --list
+ 1923  dotnet new list
+ 1924  dotnet new webapi
+ 1925  dotnet restore
+ 1926  ls
+ 1927  cd ..
+ 1928  ls
+ 1929  cd MovieMaker
+ 1930  ls
+ 1931  cd ..
+ 1932  ls
+ 1933  cd ShoppingCartProject/
+ 1934  ls
+ 1935  cd ShoppingCart
+ 1936  ls
+ 1937  cd Backend/
+ 1938  dotnet build
+ 1939  ls
+ 1940  dotnet --list-sdks
+ 1941  dotnet install --list
+ 1942  sudo snap install dotnet-sdk --classic
+ 1943  la
+ 1944  cd Workspace/
+ 1945  ls
+ 1946  ./dotnet7.install
+ 1947  chmode dotnet7.install 777
+ 1948  chmode 777 dotnet7.install
+ 1949  chmod 777 dotnet7.install
+ 1950  ./dotnet7.install
+ 1951  cd Workspace/Projects/ShoppingCartProject/ShoppingCart/Backend/
+ 1952  dotnet buikd
+ 1953  dotnet build
+ 1954  dotnet watch
+ 1955  cd ..
+ 1956  ls
+ 1957  cd C-Sharp/
+ 1958  cd VueCsProject/
+ 1959  ls
+ 1960  dotnet new --list
+ 1961  dotnet new apicontroller
+ 1962  dotnet new apicontroller api
+ 1963  dotnet new apicontroller api --force
+ 1964  dotnet new api apicontroller --force
+ 1965  dotnet new apicontroller --force
+ 1966  cd ..
+ 1967  cd VueCsShop/
+ 1968  dotnet new webapi
+ 1969  ls
+ 1970  cd Backend/
+ 1971  ls
+ 1972  dotnet new webapi
+ 1973  ls
+ 1974  cd Backend/
+ 1975  dotnet watch
+ 1976  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+ 1977  dotnet add package Microsoft.EntityFrameworkCore.Tools
+ 1978  dotnet build
+ 1979  dotnet watch
+ 1980  dotnet build
+ 1981  dotnet watch
+ 1982  clear
+ 1983  dotnet watch
+ 1984  dotnet build
+ 1985  dotnet watch
+ 1986  histoty > history
+ 1987  history > history
